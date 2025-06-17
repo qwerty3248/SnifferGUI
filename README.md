@@ -42,7 +42,7 @@ Universidad de Granada
 │ └── sniffer.cpp # Implementación del sniffer (libpcap)
 ├── setup.sh # Script para instalar dependencias
 ├── Makefile # Archivo de compilación
-├── LICENSE # Licencia (si quieres añadir una)
+├── LICENSE # Licencia
 └── README.md # Este archivo
 
 ```
